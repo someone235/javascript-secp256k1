@@ -1,3 +1,5 @@
 {
-    "type": "module"
+    "devDependencies": {
+        "tap": "^14.11.0"
+    }
 }
